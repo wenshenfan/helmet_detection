@@ -5,7 +5,7 @@ Use YOLOv8 to train an object detection model to detect cyclists, license plates
 
 資料讀取與統計:
 讀取所有標籤文件，統計每種標籤的數量。
-![示例截圖01](https://github.com/wenshenfan/helmet_detection/screenshot/01.jpg)
+![示例截圖01](https://github.com/wenshenfan/helmet_detection/raw/main/screenshot/01.jpg)
 
 
 影像繪製:
