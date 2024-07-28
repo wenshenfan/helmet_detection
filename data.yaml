@@ -1,0 +1,9 @@
+names:
+- with helmet
+- without helmet
+- rider
+- number plate
+nc: 4
+path: ../datasets/
+train: ../datasets/train
+val: ../datasets/val
