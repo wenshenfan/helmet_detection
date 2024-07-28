@@ -31,7 +31,7 @@ Use YOLOv8 to train an object detection model to detect cyclists, license plates
 ![示例截圖06](https://github.com/wenshenfan/helmet_detection/raw/main/screenshot/06.jpg)
 
 
-使用訓練完的模型做圖片的物件偵測。  
+使用訓練完的模型做圖片的物件偵測，prediction為訓練完的模型做的物件偵測，actual為原本標籤框出的結果。  
 ![示例截圖07_1](https://github.com/wenshenfan/helmet_detection/raw/main/screenshot/07_1.jpg)
 ![示例截圖07_2](https://github.com/wenshenfan/helmet_detection/raw/main/screenshot/07_2.jpg)
 
